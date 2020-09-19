@@ -1,4 +1,4 @@
 # under-construction
-# PyQuilAsst
-Experiments with PyQuil aided by resources from [CS269Q (Stanford)](https://cs269q.stanford.edu/syllabus.html)
+# Qiskit and PyQuil
+Experiments with Qiskit and PyQuil aided by resources from [CS269Q (Stanford)](https://cs269q.stanford.edu/syllabus.html)
 
